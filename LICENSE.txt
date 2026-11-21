@@ -1,6 +1,6 @@
 ESTAVION - Mastering QC & Metadata
 Isoda Lab (manufacturer listing: IsodaLab)
-Freeware License (DRAFT, November 20, 2026)
+Freeware License (November 21, 2026)
 © 2026 Dr. Hideki Isoda / All Rights Reserved.
 
 Developed by Dr. Hideki Isoda at Texas Tech University.
