@@ -1,5 +1,5 @@
 ESTAVION - Mastering QC & Metadata
-Isoda Lab (manufacturer listing: IsodaLab)
+IsodaLab
 Freeware License (November 21, 2026)
 © 2026 Dr. Hideki Isoda / All Rights Reserved.
 
@@ -22,7 +22,7 @@ By using the Software you agree to the terms below.
 2. SHARING
    You may copy and give away the unmodified download package, provided
    that it is free of charge and that this license, the copyright notice
-   and the Isoda Lab and Estavion names and branding stay intact.
+   and the IsodaLab and Estavion names and branding stay intact.
 
 3. RESTRICTIONS
    You may not sell, rent or sublicense the Software, bundle it with a paid

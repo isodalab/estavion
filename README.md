@@ -4,7 +4,7 @@
 
 <h1 align="center">Estavion</h1>
 <p align="center"><b>Mastering QC &amp; Metadata</b><br>
-Isoda Lab<br>
+IsodaLab<br>
 <i>Free professional audio software, created for the global audio community.</i></p>
 
 <p align="center">
