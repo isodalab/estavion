@@ -1,0 +1,70 @@
+ESTAVION - Mastering QC & Metadata
+Isoda Lab (manufacturer listing: IsodaLab)
+Freeware License (DRAFT, November 20, 2026)
+© 2026 Dr. Hideki Isoda / All Rights Reserved.
+
+Developed by Dr. Hideki Isoda at Texas Tech University.
+Created as a contribution to the global audio community, this software is
+provided free of charge to support audio professionals, educators,
+students, and researchers worldwide.
+
+Estavion ("the Software") is free of charge but it is
+not open source. This license applies to Estavion version 1.7.0 for
+Windows, macOS and Linux, and to later versions released under it.
+By using the Software you agree to the terms below.
+
+1. USE
+   You may use the Software, free of charge, on any number of computers,
+   for any purpose: personal, educational or commercial. Audio you check
+   with the Software, and the reports it produces, are entirely yours; no
+   credit or royalty is owed.
+
+2. SHARING
+   You may copy and give away the unmodified download package, provided
+   that it is free of charge and that this license, the copyright notice
+   and the Isoda Lab and Estavion names and branding stay intact.
+
+3. RESTRICTIONS
+   You may not sell, rent or sublicense the Software, bundle it with a paid
+   product, or distribute it under another name. You may not modify,
+   decompile or reverse engineer it, except where applicable law expressly
+   allows this regardless of this restriction.
+
+4. PRIVACY
+   The Software collects no data. It makes no network connections, has no
+   analytics or telemetry, needs no account, registration or license key,
+   and never sends anything anywhere. It reads the files you open, and
+   writes only what you choose to save: reports, and metadata you edit
+   (into the file, or into a new copy). Playback and MIDI control happen
+   only on your own computer. Its settings (sensitivity, timecode rate,
+   volume, shortcuts, MIDI assignments, window layout) and your review
+   decisions are stored on your computer.
+
+5. OWNERSHIP
+   The Software is licensed, not sold. All rights not expressly granted here
+   are reserved by the copyright holder. Future versions may be released
+   under different terms; this version stays available under this license.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. Automatic detection
+   of clicks, pops and spikes is an aid to listening, not a substitute for it.
+   A QC report records the decisions of the person who made them; it is not
+   a certification by the authors.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR OR TEXAS TECH UNIVERSITY BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+   OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. THIRD-PARTY COMPONENTS
+   The Software is built with the JUCE framework (https://juce.com), used
+   under the JUCE licence. On Windows it uses the Bahnschrift typeface that
+   ships with Windows. It contains the Barlow typeface (Copyright 2017 The
+   Barlow Project Authors), used under the SIL Open Font License 1.1; see
+   "Font License (Barlow).txt". If ffmpeg is installed, it may be used to
+   decode some formats; ffmpeg is not part of the Software. Windows is a
+   trademark of Microsoft Corporation; macOS of Apple Inc.; Linux of Linus
+   Torvalds.
