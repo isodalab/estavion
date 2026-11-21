@@ -159,7 +159,9 @@ Built with the [JUCE](https://juce.com) framework. The macOS and Linux versions 
 
 For a long time, I dreamed of having a tool like this for my daily mixing and mastering work. You can do the job by combining several different tools, but Estavion makes my workflow much better and faster. I used to play an entire track through just to measure its integrated LUFS. Now the result is instant. Estavion also catches glitches in the source material before I start editing, mixing, or mastering.
 
-Developed by **Dr. Hideki Isoda** at **Texas Tech University**. Created as a contribution to the global audio community, this software is provided free of charge to support audio professionals, educators, students, and researchers worldwide.
+I created this software as a contribution to the global audio community, and it is free for audio professionals, educators, students, and researchers worldwide.
+
+This project is entirely self-funded, and I have not applied for any grants. I also see it as a good example for the Music Informatics and Recording Technology courses I teach at Texas Tech University School of Music, and I hope it inspires my students.
 
 ## Name
 
