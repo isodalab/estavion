@@ -157,6 +157,24 @@ Built with the [JUCE](https://juce.com) framework. The macOS and Linux versions 
 
 ## About
 
+For a long time, I dreamed of having a tool like this for my daily mixing and mastering work. You can do the job by combining several different tools, but Estavion makes my workflow much better and faster. I used to play an entire track through just to measure its integrated LUFS. Now the result is instant. Estavion also catches glitches in the source material before I start editing, mixing, or mastering.
+
 Developed by **Dr. Hideki Isoda** at **Texas Tech University**. Created as a contribution to the global audio community, this software is provided free of charge to support audio professionals, educators, students, and researchers worldwide.
+
+## Name
+
+Estavion is a name I made up, blending two parts. "Estav" suggests stability and precision, and "ion" points to science and technology.
+
+## Transparency
+
+I do use AI tools like ChatGPT or Claude to help organize my ideas and catch errors, but most of the work comes from decades of coding practice and real-world professional experiences. I still design programs like this the old-fashioned way, with notebooks and a whiteboard, before the code takes shape. That said, AI has cut my build time from many months of late nights to weeks!
+
+## Thank you
+
+To my fantastic students and colleagues, who were so willing to test Estavion.
+
+And to my wife, **Hyejin**, who is always supportive of me and my projects.
+
+— Hideki Isoda
 
 <sub>© 2026 Dr. Hideki Isoda / All Rights Reserved.</sub>
