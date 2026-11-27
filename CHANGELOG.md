@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.1 (2026-11-27)
+
+- The footer follows the other IsodaLab tools: IsodaLab | “For anyone delivering pristine sound on Earth and everywhere else”, then the copyright and the version.
+
 ## 1.7.0 (2026-11-20)
 
 First public release, for Windows, macOS (Apple silicon) and Linux.

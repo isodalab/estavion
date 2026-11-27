@@ -8,7 +8,7 @@ IsodaLab<br>
 <i>Free professional audio software, created for the global audio community.</i></p>
 
 <p align="center">
-  <a href="https://github.com/isodalab/estavion/releases/tag/v1.7.0"><b>Download 1.7.0</b></a> ·
+  <a href="https://github.com/isodalab/estavion/releases/tag/v1.7.1"><b>Download 1.7.1</b></a> ·
   <a href="#install-on-windows">Install on Windows</a> ·
   <a href="#install-on-macos">Install on macOS</a> ·
   <a href="#install-on-linux">Install on Linux</a> ·
@@ -31,11 +31,11 @@ It runs on **Windows**, **macOS** (Apple silicon) and **Linux**, with the same a
 
 | Platform | Package | Requirements |
 |---|---|---|
-| **Windows** | [IsodaLab-Estavion-1.7.0-Windows.zip](https://github.com/isodalab/estavion/releases/download/v1.7.0/IsodaLab-Estavion-1.7.0-Windows.zip) | 64-bit Windows 10 or 11 |
-| **macOS** | [IsodaLab-Estavion-1.7.0-macOS-AppleSilicon.dmg](https://github.com/isodalab/estavion/releases/download/v1.7.0/IsodaLab-Estavion-1.7.0-macOS-AppleSilicon.dmg) | Mac with Apple silicon (M1 or later), macOS 11 or later |
-| **Linux** | [IsodaLab-Estavion-1.7.0-Linux-x86_64.zip](https://github.com/isodalab/estavion/releases/download/v1.7.0/IsodaLab-Estavion-1.7.0-Linux-x86_64.zip) | 64-bit Linux (x86_64), glibc 2.35 or later (Ubuntu 22.04+, Debian 12, Fedora 36+, …), ALSA or JACK audio |
+| **Windows** | [IsodaLab-Estavion-1.7.1-Windows.zip](https://github.com/isodalab/estavion/releases/download/v1.7.1/IsodaLab-Estavion-1.7.1-Windows.zip) | 64-bit Windows 10 or 11 |
+| **macOS** | [IsodaLab-Estavion-1.7.1-macOS-AppleSilicon.dmg](https://github.com/isodalab/estavion/releases/download/v1.7.1/IsodaLab-Estavion-1.7.1-macOS-AppleSilicon.dmg) | Mac with Apple silicon (M1 or later), macOS 11 or later |
+| **Linux** | [IsodaLab-Estavion-1.7.1-Linux-x86_64.zip](https://github.com/isodalab/estavion/releases/download/v1.7.1/IsodaLab-Estavion-1.7.1-Linux-x86_64.zip) | 64-bit Linux (x86_64), glibc 2.35 or later (Ubuntu 22.04+, Debian 12, Fedora 36+, …), ALSA or JACK audio |
 
-Every package contains the app, the Quick Start guide and the license. [SHA256SUMS.txt](https://github.com/isodalab/estavion/releases/download/v1.7.0/SHA256SUMS.txt) lists the checksums. ESTAVION is a standalone app: there is no installer, no account and no license key. The full guide is inside the app: click **(i)** or press **Ctrl+/** (**Cmd+/** on a Mac).
+Every package contains the app, the Quick Start guide and the license. [SHA256SUMS.txt](https://github.com/isodalab/estavion/releases/download/v1.7.1/SHA256SUMS.txt) lists the checksums. ESTAVION is a standalone app: there is no installer, no account and no license key. The full guide is inside the app: click **(i)** or press **Ctrl+/** (**Cmd+/** on a Mac).
 
 ## What it does
 
@@ -89,7 +89,7 @@ ESTAVION is free and isn't code-signed with a paid certificate, so Windows treat
 
 ## Install on macOS
 
-1. **Download** `IsodaLab-Estavion-1.7.0-macOS-AppleSilicon.dmg` and double-click it.
+1. **Download** `IsodaLab-Estavion-1.7.1-macOS-AppleSilicon.dmg` and double-click it.
 2. **Drag `Estavion.app` to your Applications folder.**
 3. **Open it.** The first time, macOS shows an alert saying *"ESTAVION" Not Opened*. That's expected: ESTAVION is free and isn't notarized with a paid Apple Developer ID. Click **Done** (1), not *Move to Trash*.
 
@@ -117,13 +117,13 @@ Then open ESTAVION again.
 1. **Extract** the download with your file manager, or in a terminal:
 
    ```bash
-   unzip IsodaLab-Estavion-1.7.0-Linux-x86_64.zip
+   unzip IsodaLab-Estavion-1.7.1-Linux-x86_64.zip
    ```
 
 2. **Run it**, or add it to your applications menu:
 
    ```bash
-   cd IsodaLab-Estavion-1.7.0-Linux-x86_64
+   cd IsodaLab-Estavion-1.7.1-Linux-x86_64
    ./Estavion            # run it from here
    ./install.sh          # or: install for this user (~/.local/bin and the menu)
    ```
@@ -143,7 +143,7 @@ Shortcuts are written for Windows and Linux; on a Mac, use **Cmd** where they sa
 4. **Check the summary tiles:** loudness and the gain to your target, true peak, start and end, phase and mono.
 5. **When the SESSION box says ALL FILES CLEARED,** print the QC report (Ctrl+R) for the client.
 
-The [Quick Start](https://github.com/isodalab/estavion/releases/tag/v1.7.0) in every package and the guide inside the app (**Ctrl+/**) explain every feature.
+The [Quick Start](https://github.com/isodalab/estavion/releases/tag/v1.7.1) in every package and the guide inside the app (**Ctrl+/**) explain every feature.
 
 ## Privacy
 

@@ -9,7 +9,7 @@ provided free of charge to support audio professionals, educators,
 students, and researchers worldwide.
 
 Estavion ("the Software") is free of charge but it is
-not open source. This license applies to Estavion version 1.7.0 for
+not open source. This license applies to Estavion version 1.7.1 for
 Windows, macOS and Linux, and to later versions released under it.
 By using the Software you agree to the terms below.
 
